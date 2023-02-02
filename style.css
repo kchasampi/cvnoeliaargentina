@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+    }
+    
+    body {
+    
+        background: #dbdbd6;
+        font-family: 'Lato', sans-serif;
+        background-image: url(../cv_argentinaprograma/fondoo.jpg);
+        background-size: cover;
+    }
+    
+    a{
+        text-decoration: none;
+    }
+    
+    .contenedor {
+    
+        width: 90%;
+        max-width: 800px;
+        margin: auto;
+    }
+    
+    /* header*/
+    
+    header .logo {
+        border: beige;
+        text-align: center;
+        margin: 50px;
+      
+    
+       
+    
+    }
+    
+    header .nombre {
+    
+        text-align: center;
+        font-family: 'EB Garamond', serif;
+    
+    }
+    
+    header .social {
+    
+        text-align: center;
+        margin: 30px;
+    }
+    
+    .caja{
+        text-align: center;
+        display: table-cell;
+        padding: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+        ;
+    
+    }
